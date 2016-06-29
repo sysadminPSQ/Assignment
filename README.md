@@ -1,0 +1,2 @@
+# AndroidAssignment
+News Feedly App
