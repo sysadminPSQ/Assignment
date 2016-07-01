@@ -31,7 +31,7 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 ##Do's and Don't
 
-1. The Author parameter in the API should be your name and email ID.
+1. The Author parameter in the API should be your name or email ID.
 
 2. You can use the API to filter Articles for only 3 Parameters i.e. `id` of the article, `author` and `published` state of the article. Use this effectively so that you always see the articles published by you and not others. This is key to the app.
 
