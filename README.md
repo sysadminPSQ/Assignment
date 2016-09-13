@@ -11,8 +11,8 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 ##Getting started
 
-**For Android -  We require you to work with Android Studio alone and not any other Editor of your choice like Eclipse etc.**
-**For iOS - Use Xcode only and preferebally develop using Swift instead of Objective-C**
+- **For Android -  We require you to work with Android Studio alone and not any other Editor of your choice like Eclipse etc.**
+- **For iOS - Use Xcode only and preferebally develop using Swift instead of Objective-C**
 
 1. The below url should be used as the base url when you are working with the API.
 
