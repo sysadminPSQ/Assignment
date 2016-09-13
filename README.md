@@ -1,7 +1,7 @@
 
 ![Pepper Square](http://www.peppersquare.com/images/peppersquare_logo.jpg)
 
-# Android Assignment
+# Assignment
 
 ##Objective
 
@@ -11,7 +11,8 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 ##Getting started
 
-**Mandatory -  We require you to work with Android Studio alone and not any other Editor of your choice like Eclipse etc.**
+**For Android -  We require you to work with Android Studio alone and not any other Editor of your choice like Eclipse etc.**
+**For iOS - Use Xcode only and preferebally develop using Swift instead of Objective-C**
 
 1. The below url should be used as the base url when you are working with the API.
 
@@ -27,7 +28,7 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
     `http://test.peppersquare.com/api-doc/`
 
-    >This url has the complete documentation of how the API mentioned in step 2 works and you can play around and get to know the API behavior.
+    >The url has the complete documentation of how the API mentioned in step 2 works and you can play around and get to know the API behavior.
 
 ##Do's and Don't
 
@@ -37,16 +38,17 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 3. Don't pass junk values to the API even when you are testing.
 
-4. You can use `Retrofit`, `Volley` or any other Network manager for your choice.
+4. For Android - You can use `Retrofit`, `Volley` or any other Network manager for your choice.
 
-5. The App should not crash at any given point of time.
+5. For iOS - You can use any Network Manager of your choice. Third Party or Native. 
 
+6. The App should not crash at any given point of time.
 
 ##Contact
 
-If the API is not working or if you need any clarification please write your queries to `akash@peppersquare.com` and we will get back yo you.
+If the API is not working or if you need any clarification please write your queries to `akash@peppersquare.com` and we will get back to you.
 
-Please reach out if truly necessary and refrain from asking doubts on how the API works.
+Please reach out if truly necessary (Eg: If API is broken, If API is not behaving as expected). Please refrain from asking doubts on how the API works.
 
 ##
 Hope you have fun doing this assignment!
