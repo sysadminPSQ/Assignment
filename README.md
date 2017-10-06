@@ -48,6 +48,10 @@ This assignment also focus on how well you can design the UI. `Refere the design
 
 6. The App should not crash at any given point of time.
 
+##Submission
+
+Please share the Github link of the completed project and commit the working apk along with the project to `sam@peppersquare.com`.
+
 ##Contact
 
 If the API is not working or if you need any clarification please write your queries to `saikiran@peppersquare.com` and we will get back to you.
