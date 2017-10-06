@@ -1,5 +1,5 @@
 
-![Pepper Square](http://www.peppersquare.com/images/peppersquare_logo.jpg)
+![Pepper Square](http://www.peppersquare.com/themes/peppersquare/logo.svg)
 
 # Assignment
 
@@ -9,10 +9,12 @@ The Objective of this assignment is to understand your capabilities of working w
 
 This assignment will focus on `GET` and `POST` methods. You will have to familiarise yourself if you are not aware of these two methods.
 
+This assignment also focus on how well you can design the UI. `Refere the design folder`
+
 ##Getting started
 
-- **For Android -  We require you to work with Android Studio alone and not any other Editor of your choice like Eclipse etc.**
-- **For iOS - Use Xcode only and preferebally develop using Swift instead of Objective-C**
+- **For Android -  We require you to work with Android Studio alone and preferably develop using Kotlin**
+- **For iOS - Use Xcode only and preferably develop using Swift instead of Objective-C**
 
 1. The below url should be used as the base url when you are working with the API.
 
@@ -38,7 +40,9 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 3. Don't pass junk values to the API even when you are testing.
 
-4. For Android - You can use `Retrofit`, `Volley` or any other Network manager for your choice.
+4. For Android 
+    - Preferably use `Retrofit`, `Volley`. 
+    - **Bonus**: Dagger2, RxJava, EventBus and MVP pattern.
 
 5. For iOS - You can use any Network Manager of your choice. Third Party or Native. 
 
@@ -46,7 +50,7 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 ##Contact
 
-If the API is not working or if you need any clarification please write your queries to `akash@peppersquare.com` and we will get back to you.
+If the API is not working or if you need any clarification please write your queries to `saikiran@peppersquare.com` and we will get back to you.
 
 Please reach out if truly necessary (Eg: If API is broken, If API is not behaving as expected). Please refrain from asking doubts on how the API works.
 
