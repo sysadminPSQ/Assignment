@@ -11,7 +11,7 @@ This assignment will focus on `GET` and `POST` methods. You will have to familia
 
 This assignment also focus on how well you can design the UI. `Refere the design folder`
 
-##Getting started
+## Getting started
 
 - **For Android -  We require you to work with Android Studio alone and preferably develop using Kotlin**
 - **For iOS - Use Xcode only and preferably develop using Swift instead of Objective-C**
@@ -32,7 +32,7 @@ This assignment also focus on how well you can design the UI. `Refere the design
 
     >The url has the complete documentation of how the API mentioned in step 2 works and you can play around and get to know the API behavior.
 
-##Do's and Don't
+## Do's and Don't
 
 1. The Author parameter in the API should be your name or email ID.
 
@@ -48,11 +48,11 @@ This assignment also focus on how well you can design the UI. `Refere the design
 
 6. The App should not crash at any given point of time.
 
-##Submission
+## Submission
 
 Please share the Github link of the completed project and commit the working apk along with the project to `sam@peppersquare.com`.
 
-##Contact
+## Contact
 
 If the API is not working or if you need any clarification please write your queries to `saikiran@peppersquare.com` and we will get back to you.
 
